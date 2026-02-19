@@ -48,7 +48,7 @@
     "globby": "^13.2.2",
     "gray-matter": "^4.0.3",
     "icons": "workspace:*",
-    "lodash": "^4.0.0",
+    "lodash": "^4.17.23",
     "lucide-react": "*",
     "markdown-toc": "^1.2.0",
     "next": "catalog:",
