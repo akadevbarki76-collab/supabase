@@ -494,7 +494,7 @@
     "framer-motion": "^11.1.9",
     "github-slugger": "^2.0.0",
     "icons": "workspace:*",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "lucide-react": "*",
     "mdast": "^3.0.0",
     "monaco-editor": "*",
